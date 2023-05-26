@@ -1,5 +1,8 @@
-# Hello! o/ 🐭
+## Hello! o/ 
 
+# About Me:
+
+I'm Gerry~ Recently turned 25 and trying to do something meaningful with my life basically😎
 
 
 # Some stats: 
