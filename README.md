@@ -1,4 +1,3 @@
-# Casual-Nerding
 ## Hello! o/ 
 🐭 I'm Gerry~ <br />
 🏮 Recently turned 25 and currently trying to find my "ikigai"_(Japanese saying for 'life's purpose')._ <br />
