@@ -1,7 +1,5 @@
-# Hello! o/ 
-
-## About Me:
-
+# Casual-Nerding
+## Hello! o/ 
 🐭 I'm Gerry~ <br />
 🏮 Recently turned 25 and currently trying to find my "ikigai"_(Japanese saying for 'life's purpose')._ <br />
 🔍 I spend most of my free time reading on the internet and brainstorming. I love spending time on the PC and I recently put together with huge help from a friend giving instructions and being patient with me on Discord. Recently have been getting into project management and since the PC upgrade and finally more monitors, I am enjoying sitting down and trying to code stuff for fun more and more lately.<br />
@@ -16,4 +14,18 @@
  ![Gerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiratsuna&size_weight=0&count_weight=1&show_icons=true&theme=highcontrast&rank_icon=github) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiratsuna&size_weight=0&count_weight=1&layout=donut&langs_count=8)
 
-
+## Socials
+<html>
+<footer>
+<div style="centered"></div>
+<a href="https://discord.gg/Z4kCM3Jp3Q"><img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: 120px; height: 120px"></a>
+<a href="https://github.com/why-not-curious"><img src="icons8-github-96.png" alt="Github" title="Github" style="width: 120px; height: 120px"></a>
+<a href="https://linkedin.com/gerganazhekova"><img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 120px; height: 120px"></a>
+<a href="https://www.youtube.com/whynotcurious"> <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> </a>
+<a href="https://www.twitch.tv/whynotcurious"><img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px"/> </a>
+<a href="https://www.facebook.com/gerry.jekova"> <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" style="width: 120px; height: 120px"/> </a>
+<a href="https://tiktok.com/whynotcurious"> <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" style="width: 120px; height: 120px"/> </a>
+<a href="https://www.buymeacoffee.com/whynotcurious"><img src="icons8-kawaii-coffee-100.png" alt="Buy me a Coffee" title="Buy me a Coffee" style="width: 120px; height: 120px"></a>
+ </footer>
+</html>
+***Icons from Icons8
