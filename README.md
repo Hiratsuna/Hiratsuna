@@ -15,7 +15,7 @@
 
 ## Socials
 <html>
- <div style="centered">
+ <div style="align:center">
    <a href="https://discord.gg/Z4kCM3Jp3Q">
      <img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: ; height: 120px">
    </a>
@@ -26,16 +26,16 @@
        <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> 
     </a>
  <a href="https://www.twitch.tv/whynotcurious">
-    <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px"/> 
+    <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px padding:5px"/> 
  </a>
     <a href="https://www.facebook.com/gerry.jekova">
-      <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" style="width: 120px; height: 120px"/> 
+      <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" label="Facebook" style="width: 120px; height: 120px"/> 
     </a>
 <a href="https://tiktok.com/whynotcurious">
-     <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" style="width: 120px; height: 120px"/> 
+     <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 120px; height: 120px"/> 
 </a>
- <p> <a href="icons8.com">🌝</a>  Icons from Icons8
+     <p style="align:center"> <a href="icons8.com" style="4px 4px 4px 4px">🌝</a>Icons8
      </p>
   </div>
- </html>
+</html>
 
