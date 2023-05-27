@@ -6,15 +6,11 @@
 🎧 Occupation: Customer Service for 2.5-ish years now and recently switched to a new workplace and it is looking like a place I would love to hang around and see what's going on. I like working cs, cause it helps me improve and keep a lot of my normally weak points in shape - communication, patience and empathy. Also.. helping people is pretty awesome and feels awesome, too. 😅 <br />
 🦊 I have the cutest doggie in the world and she looks like a white foxy, which is why I used that emote. Her name is Megumi and she is a German Spitz - Medium. <br />
 
-
-
-
 ## Some stats: 
  ![Gerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiratsuna&size_weight=0&count_weight=1&show_icons=true&theme=highcontrast&rank_icon=github) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiratsuna&size_weight=0&count_weight=1&layout=donut&langs_count=8)
 
 ## Socials
-<html>
  <div style="align:center">
    <a href="https://discord.gg/Z4kCM3Jp3Q">
      <img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: ; height: 120px">
@@ -34,8 +30,7 @@
 <a href="https://tiktok.com/whynotcurious">
      <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 120px; height: 120px"/> 
 </a>
-     <p style="align:center"> <a href="icons8.com" style="4px 4px 4px 4px">🌝</a>Icons8
+     <p style="display:center"><a href="icons8.com" style="4px 4px 4px 4px">🌝</a>Icons8
      </p>
   </div>
-</html>
 
