@@ -26,9 +26,9 @@
 <a href="https://www.facebook.com/gerry.jekova"> <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" style="width: 120px; height: 120px"/> </a>
 <a href="https://tiktok.com/whynotcurious"> <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" style="width: 120px; height: 120px"/> </a>
 <a href="https://www.buymeacoffee.com/whynotcurious"><img src="icons8-kawaii-coffee-100.png" alt="Buy me a Coffee" title="Buy me a Coffee" style="width: 120px; height: 120px"></a>
- <div class="icons" link-color: purple; color: pink; font-family: "comic sans ms", sans serif;></div>
-  <a href="icons8.com">Icons from Icons8</a>
- </div>
+ <div class="icons" style="link-color: purple; color: pink; font-family: "comi c sans ms", sans serif;"></div>
+  <p href="icons8.com">Icons from Icons8</p>
+
  </footer>
 </html>
 
