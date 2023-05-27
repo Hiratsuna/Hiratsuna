@@ -16,19 +16,34 @@
 
 ## Socials
 <html>
-<footer>
- <div style="centered"></div>
-<a href="https://discord.gg/Z4kCM3Jp3Q"><img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: 120px; height: 120px"></a>
-<a href="https://github.com/Why-Not-Curious"><img src="icons8-github-96.png" alt="Github" title="Github" style="width: 120px; height: 120px"></a>
-<a href="https://linkedin.com/gerganazhekova"><img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 120px; height: 120px"></a>
-<a href="https://www.youtube.com/whynotcurious"> <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> </a>
-<a href="https://www.twitch.tv/whynotcurious"><img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px"/> </a>
-<a href="https://www.facebook.com/gerry.jekova"> <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" style="width: 120px; height: 120px"/> </a>
-<a href="https://tiktok.com/whynotcurious"> <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" style="width: 120px; height: 120px"/> </a>
-<a href="https://www.buymeacoffee.com/whynotcurious"><img src="icons8-kawaii-coffee-100.png" alt="Buy me a Coffee" title="Buy me a Coffee" style="width: 120px; height: 120px"></a>
- <div class="icons" style="link-color: purple; color: pink; font-family: "comi c sans ms", sans serif;"></div>
-  <p href="icons8.com">Icons from Icons8</p>
-
- </footer>
-</html>
+ <div style="centered">
+   <a href="https://discord.gg/Z4kCM3Jp3Q">
+     <img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: 120px; height: 120px">
+   </a>
+   <a href="https://github.com/Why-Not-Curious">
+      <img src="icons8-github-96.png" alt="Github" title="Github" style="width: 120px; height: 120px">
+   </a>
+ <a href="https://linkedin.com/gerganazhekova">
+   <img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 120px; height: 120px">
+ </a>
+    <a href="https://www.youtube.com/whynotcurious">
+       <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> 
+    </a>
+ <a href="https://www.twitch.tv/whynotcurious">
+    <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px"/> 
+ </a>
+    <a href="https://www.facebook.com/gerry.jekova">
+      <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" style="width: 120px; height: 120px"/> 
+    </a>
+<a href="https://tiktok.com/whynotcurious">
+     <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" style="width: 120px; height: 120px"/> 
+</a>
+     <a href="https://www.buymeacoffee.com/whynotcurious">
+       <img src="icons8-kawaii-coffee-100.png" alt="Buy me a Coffee" title="Buy me a Coffee" style="width: 120px; height: 120px">
+     </a>
+</div>
+     <p href="icons8.com"> 
+        Icons from Icons8
+     </p>
+ </html>
 
