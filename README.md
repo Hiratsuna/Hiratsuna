@@ -21,7 +21,7 @@
     <a href="https://www.youtube.com/whynotcurious">
        <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> 
     </a>
- <a href="https://www.twitch.tv/whynotcurious">
+ <a href="https://www.twitch.tv/casualnerdingtv">
     <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px padding:5px"/> 
  </a>
     <a href="https://www.facebook.com/gerry.jekova">
