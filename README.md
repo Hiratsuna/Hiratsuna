@@ -18,7 +18,7 @@
  <a href="https://linkedin.com/gerganazhekova">
    <img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 120px; height: 120px">
  </a>
-    <a href="https://www.youtube.com/whynotcurious">
+    <a href="https://www.youtube.com/casualnerdingtv">
        <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> 
     </a>
  <a href="https://www.twitch.tv/casualnerdingtv">
@@ -27,7 +27,7 @@
     <a href="https://www.facebook.com/gerry.jekova">
       <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" label="Facebook" style="width: 120px; height: 120px"/> 
     </a>
-<a href="https://tiktok.com/whynotcurious">
+<a href="https://tiktok.com/@whynotcurious">
      <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 120px; height: 120px"/> 
 </a>
      <p style="display:center"><a href="icons8.com" style="4px 4px 4px 4px">🌝</a>Icons8
