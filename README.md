@@ -30,7 +30,5 @@
 <a href="https://tiktok.com/@whynotcurious">
      <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 120px; height: 120px"/> 
 </a>
-     <p style="display:center"><a href="icons8.com" style="4px 4px 4px 4px">🌝</a>Icons8
-     </p>
   </div>
 
