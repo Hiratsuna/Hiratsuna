@@ -13,22 +13,22 @@
 ## Socials
  <div style="align:center">
    <a href="https://discord.gg/Z4kCM3Jp3Q">
-     <img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: ; height: 120px">
+     <img src="icons8-discord-96.png" alt="Discord" title="Discord" style="width: ; height: 132px">
    </a>
  <a href="https://linkedin.com/gerganazhekova">
-   <img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 120px; height: 120px">
+   <img src="icons8-linkedin-96.png" alt="Linkedin" title="Linkedin" style="width: 132px; height: 132px">
  </a>
     <a href="https://www.youtube.com/casualnerdingtv">
-       <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 120px; height: 120px"/> 
+       <img src="icons8-youtube-96.png" alt="Youtube" title="Youtube" style="width: 132px; height: 132px"/> 
     </a>
  <a href="https://www.twitch.tv/casualnerdingtv">
-    <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 120px; height: 120px padding:5px"/> 
+    <img src="icons8-twitch-94.png" alt="Twitch" title="Twitch" style="width: 132px; height: 132px padding:5px"/> 
  </a>
     <a href="https://www.facebook.com/gerry.jekova">
-      <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" label="Facebook" style="width: 120px; height: 120px"/> 
+      <img src="icons8-facebook-96.png" alt="Facebook" title="Facebook" label="Facebook" style="width: 132px; height: 132px"/> 
     </a>
 <a href="https://tiktok.com/@whynotcurious">
-     <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 120px; height: 120px"/> 
+     <img src="icons8-tiktok-96.png" alt="TikTok" title="TikTok" label="Tiktok" style="width: 132px; height: 132px"/> 
 </a>
   </div>
 
